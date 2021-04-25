@@ -6,4 +6,5 @@ public class entity {
 
     private  Integer id;
     private Integer gender;
+    private  Integer version;
 }
